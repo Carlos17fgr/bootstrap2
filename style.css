@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    box-sizing: border-box;
+}
+body {
+    color: black;
+
+}
+.row{
+    width: 100%;
+}
+
+.caja_amarilla {
+    height: 100%;
+    background-color: yellow;
+    border: 1px solid #000;
+    height: 190px;
+}
+.caja_morada {
+    height: 100%;
+    background-color: purple;
+    border: 1px solid #000;
+    height: 190px;
+
+}
